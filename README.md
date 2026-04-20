@@ -1,16 +1,8 @@
 <!-- Header -->
-
 <h1 align="center">Deepika</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+%7C+Python+%7C+MERN+Stack;Building+Scalable+Web+Applications&center=true&width=500&height=45">
-</p>
-
----
-
 ## Profile
-
-Full stack developer focused on building modern, responsive, and scalable web applications.
+developer focused on building modern, responsive, and scalable web applications.  
 Strong interest in frontend design, backend architecture, and clean code practices.
 
 ---
@@ -18,36 +10,42 @@ Strong interest in frontend design, backend architecture, and clean code practic
 ## Tech Stack
 
 ### Languages
-
-Java, Python
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+</p>
 
 ### Frontend
-
-HTML, CSS, React
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+</p>
 
 ### Backend
-
-Node.js, Express.js
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/>
+</p>
 
 ### Databases
-
-MySQL, MongoDB
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
+</p>
 
 ---
 
 ## Selected Projects
 
 ### E-commerce Platform
-
-A full stack application with product listings, cart functionality, and responsive UI.
+A full stack application with product listings, cart functionality, and responsive UI.  
 Built using React, Node.js, Express, and MongoDB.
 
 ### Frontend UI Projects
-
 Collection of responsive layouts and design-focused interfaces using HTML, CSS, and React.
 
 ### Full Stack Applications
-
 Projects demonstrating API integration, authentication, and database management.
 
 ---
@@ -84,7 +82,7 @@ Projects demonstrating API integration, authentication, and database management.
 
 ## Contact
 
-Open to collaboration and development opportunities.
+Open to collaboration and development opportunities.  
 Explore the repositories for more details on projects and implementations.
 
 ---
