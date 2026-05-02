@@ -48,20 +48,6 @@ Collection of responsive layouts and design-focused interfaces using HTML, CSS, 
 ### Full Stack Applications
 Projects demonstrating API integration, authentication, and database management.
 
----
-
-## GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepika9282&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepika9282&layout=compact&theme=tokyonight" height="170">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=deepika9282&theme=tokyonight">
-</p>
-
----
 
 ## Development Focus
 
